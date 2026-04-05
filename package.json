@@ -1,7 +1,7 @@
 {
   "name": "com.serc.aichatdemo",
   "version": "1.0.0",
-  "displayName": "AI Chat Demo",
+  "displayName": "FreeEdit AI Plugin",
   "description": "Minimal AI Chat editor window demo installable from Unity Package Manager Git URL.",
   "unity": "2021.3",
   "keywords": [
@@ -11,7 +11,7 @@
     "demo"
   ],
   "author": {
-    "name": "SERC",
-    "url": "https://github.com/your-org-or-user"
+    "name": "TPE",
+    "url": "https://github.com/divijhm"
   }
 }
