@@ -1,0 +1,17 @@
+{
+  "name": "com.serc.aichatdemo",
+  "version": "1.0.0",
+  "displayName": "AI Chat Demo",
+  "description": "Minimal AI Chat editor window demo installable from Unity Package Manager Git URL.",
+  "unity": "2021.3",
+  "keywords": [
+    "ai",
+    "chat",
+    "editor",
+    "demo"
+  ],
+  "author": {
+    "name": "SERC",
+    "url": "https://github.com/your-org-or-user"
+  }
+}
